@@ -1,0 +1,68 @@
+{
+    "birthday": {
+        "name": "birthday",
+        "subscribers": 946,
+        "discription": "The birthday subreddit. News, results and discussions",
+        "posts": [
+            {
+                "title": "My grandma just gave a birthday to my puppy",
+                "author": "weerdo",
+                "img": ""
+            },
+            {
+                "title": "the birthday party just went crazy with toilet paper",
+                "author": "funzy",
+                "img": ""
+            },
+            {
+                "title": "I just saw a sign that said 'no _____ allowed'",
+                "author": "werdseer",
+                "img": ""
+            }
+        ]
+    },
+    "chickies": {
+        "name": "chickies",
+        "subscribers": 8976,
+        "discription": "The chickies subreddit. Cute chickies, funny stuff and discussions",
+        "posts": [
+            {
+                "title": "My chick laid by a chicken started dancing today",
+                "author": "praman",
+                "img": ""
+            },
+            {
+                "title": "A balloon in my birthday party had a baby chicken in it",
+                "author": "backiny",
+                "img": "https://www.bing.com/images/search?view=detailV2&ccid=7%2fR5VTu%2b&id=ABC94B57AAB151C8CAC6FDBA97DF4C5D8A0F71C3&thid=OIP.7_R5VTu-qRutf0Jn8ezW-QHaHa&mediaurl=https%3a%2f%2fs7.orientaltrading.com%2fis%2fimage%2fOrientalTrading%2f17_69%3f%24PDP_VIEWER_IMAGE%24&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.eff479553bbea91bad7f4267f1ecd6f9%3frik%3dw3EPil1M35e6%252fQ%26pid%3dImgRaw%26r%3d0&exph=825&expw=825&q=balloons&simid=607987517586474315&FORM=IRPRST&ck=D4169876F4CA9AEA0CA025AD2C6F3662&selectedIndex=1&adlt=strict"
+            },
+            {
+                "title": "How did a chick get in my new backpack?",
+                "author": "bakpakfuni",
+                "img": "https://th.bing.com/th/id/OIP.ke93NwR-TQRD4H3mtwIKvQHaD4?w=313&h=180&c=7&r=0&o=5&dpr=2.2&pid=1.7"
+            }
+        ]
+    },
+    "crazy": {
+        "name": "crazy",
+        "subscribers": 493,
+        "discription": "Crazy stuff, and things that seem crazy and weird",
+        "posts": [
+            {
+                "title": "Crazy people start jumping crazy around my mom's garden",
+                "author": "crazyboi",
+                "img": ""
+            },
+            {
+                "title": "My chickens came into my house and started pecking like crazy",
+                "author": "animoweerd",
+                "img": ""
+            },
+            {
+                "title": "How come a chicken just came into my house all of a sudden?",
+                "author": "sudiny",
+                "img": ""
+            }
+        ]
+    }
+}
